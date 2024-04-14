@@ -74,6 +74,17 @@
       "balance": 49474,
       "createdAt": "2023-12-07T04:39:38.383Z",
       "modifiedAt": "2024-03-07T00:07:36.510Z"
+    },
+    {
+      "id": "xoSyRrjjM",
+      "uuid": "0fd00a29-6d89-414c-b69e-f9ddfd8ac9a7",
+      "firstName": "Uyen",
+      "lastName": "Nguyen",
+      "username": "uyennt24",
+      "password": "$2a$10$y7IXubj6M0oQT0rSmQpE3OGfHFQxbfyoSmAbzw6wa0aH5jiAH6kPG",
+      "balance": 0,
+      "createdAt": "2024-04-14T14:04:45.368Z",
+      "modifiedAt": "2024-04-14T14:04:45.368Z"
     }
   ],
   "contacts": [
@@ -253,6 +264,17 @@
       "isDeleted": false,
       "createdAt": "2024-01-26T14:01:01.815Z",
       "modifiedAt": "2024-03-07T08:44:31.174Z"
+    },
+    {
+      "id": "CRanXVTYU",
+      "uuid": "f5bd66d7-c255-493b-be06-5cf9ea0e3b52",
+      "userId": "xoSyRrjjM",
+      "bankName": "UyenNguyen",
+      "accountNumber": "869817019",
+      "routingNumber": "869817051",
+      "isDeleted": false,
+      "createdAt": "2024-04-14T14:05:50.483Z",
+      "modifiedAt": "2024-04-14T14:05:50.483Z"
     }
   ],
   "transactions": [
